@@ -1,0 +1,31 @@
+.Post{
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    max-width: 600px;
+}
+.Post_header{
+    display: flex;
+    padding: 5px;
+}
+.Post_info{
+    margin-left: 16px;
+}
+.Post_info >h3{
+    font-weight:bold ;
+    font-size: 22px
+}
+.Post_info> p{
+    font-size:100 ;
+    font-weight:100;
+}
+.Post_body > p {
+    width: 100%;
+    padding:10px;
+    margin: 10px;
+    max-width: 600px;
+}
+.options{
+    display: flex;
+}

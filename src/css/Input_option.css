@@ -1,0 +1,16 @@
+.Input_option{
+    text-align: center;
+    display: flex;
+    width:50%;
+    margin-right: 50px;
+    cursor: pointer;
+}
+.text{
+    margin-left: 5px;
+    font-size: medium;
+    color:black;
+}
+.Input_option:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
